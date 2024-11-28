@@ -1,20 +1,26 @@
-#To-Do List Project:
-A simple to-do list built with WordPress, Elementor, FluentForms, ACF, SCF, and Crocoblock Jet Engine.
+# To-Do List Project  
+A simple to-do list built with **WordPress**, **Elementor**, **FluentForms**, **ACF**, **SCF**, and **Crocoblock Jet Engine**.
 
-#About Me: Hi Team,
+## About Me  
+Hi Team,  
 
-I’m Omkar from Odisha. I’ve been freelancing on Upwork since Class 9, creating websites using WordPress, Webflow, and Framer. I’m adept at mastering new SaaS tools as needed, whether it’s Figma, Fillout, or anything else that the situation demands.
+I’m **Omkar** from Odisha. I’ve been freelancing on Upwork since Class 9, creating websites using **WordPress**, **Webflow**, and **Framer**. I’m adept at mastering new SaaS tools as needed, whether it’s **Figma**, **Fillout**, or anything else that the situation demands.
 
-#My Skillset:
-— WordPress
-— Webflow
-— Framer
-And anything else—I’m a fast learner and adapt quickly.
+## My Skillset  
+- **WordPress**  
+- **Webflow**  
+- **Framer**  
+- And anything else—I’m a fast learner and adapt quickly.
 
-#Why Me?
-Currently, I’m learning Kotlin and C++. I bring professional communication skills, a collaborative attitude, and an ability to efficiently solve problems. While I’m still building my coding expertise, I’m committed to becoming one of the most hardworking and knowledgeable members of any team within a short time.
+## Why Me?  
+Currently, I’m learning **Kotlin** and **C++**. I bring:  
+- Professional communication skills  
+- A collaborative attitude  
+- The ability to efficiently solve problems  
 
-Oh, and I’m fun to work with!
+While I’m still building my coding expertise, I’m committed to becoming one of the most hardworking and knowledgeable members of any team within a short time.  
 
-Thank you,
-Omkar
+Oh, and I’m fun to work with!  
+
+Thank you,  
+**Omkar**
